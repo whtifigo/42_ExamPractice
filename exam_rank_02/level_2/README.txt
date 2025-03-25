@@ -1,1 +1,1 @@
-This folder is missing the following exercises that will be updated along time: ft_strdup, inter, last_word, union, camel_to_snake, max, wdmatch, do_op, strcmp, strrev, power_of_2, ft_strcspn and ft_strpbrk.
+This folder is missing the following exercises that will be updated along time: ft_strdup, inter, last_word, union, camel_to_snake, max, wdmatch, strcmp, strrev, power_of_2, ft_strcspn and ft_strpbrk.
